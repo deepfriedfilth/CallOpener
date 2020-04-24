@@ -5,7 +5,7 @@ App Options:
 
 - [ ] MobilePhone.app 	(only if available)
 - [ ] FaceTime Audio	(`facetime-audio://` or `facetime-audio-prompt://`)
-- [ ] Google Hangouts	(`com.google.hangouts://`)
+- [ ] ~Google Hangouts	(`com.google.hangouts://`)~ (no useful deeplinking available 😢)
 - [ ] Google Voice		(`com.google.voice://`)
 - [ ] WhatsApp			(`whatsapp://`)
 - [ ] Messenger 		(`fb-messenger://`)
